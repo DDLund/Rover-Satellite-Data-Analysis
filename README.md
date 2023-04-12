@@ -21,4 +21,4 @@ A more informative plot of the decision_tree splits using dtreeviz. For each spl
 
 ![](images/class_regions.png)
 
-Plot of the decision tree regions The decision region can be plotted on a 2-D graph because the decision tree splits in exactly two features.
+Plot of the decision tree regions. The decision region can be plotted on a 2-D graph because the decision tree splits in exactly two features.
